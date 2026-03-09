@@ -7,6 +7,34 @@
 
 <style>
 
+body{
+margin:0;
+padding:0;
+display:flex;
+justify-content:center;
+align-items:center;
+min-height:100vh;
+}
+
+.container{
+width:90%;
+max-width:420px;
+margin:auto;
+text-align:center;
+}
+
+.avatar{
+display:block;
+margin:auto;
+}
+
+.link{
+display:block;
+width:100%;
+max-width:300px;
+margin:12px auto;
+}
+
 *{
 margin:0;
 padding:0;
